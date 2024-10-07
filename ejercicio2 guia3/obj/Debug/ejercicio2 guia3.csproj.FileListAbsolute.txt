@@ -1,0 +1,13 @@
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\bin\Debug\ejercicio2 guia3.exe.config
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\bin\Debug\ejercicio2 guia3.exe
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\bin\Debug\ejercicio2 guia3.pdb
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2 guia3.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2_guia3.DatosCliente.resources
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2_guia3.Form1.resources
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2_guia3.Properties.Resources.resources
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2 guia3.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2 guia3.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2 guia3.exe
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2 guia3.pdb
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2_guia3.AgregarProducto.resources
+C:\Users\Juan\source\repos\ejercicio2 guia3\ejercicio2 guia3\obj\Debug\ejercicio2_guia3.PresupuestoVer.resources
